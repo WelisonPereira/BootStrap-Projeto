@@ -1,0 +1,33 @@
+.navbar{
+    background-color: #541ebe;
+}
+
+.nav-link{
+    color:#bca7e4
+}
+
+.quem-somos{
+    background-color: #b18ef1;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 30px; 
+}
+
+.parceiros{
+    background-color: #bca7e4;
+    color: white;
+}
+
+.servicos{
+    background-color: #b18ef1;
+    color: white;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
